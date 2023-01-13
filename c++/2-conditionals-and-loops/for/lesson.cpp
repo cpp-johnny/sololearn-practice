@@ -44,3 +44,22 @@ int main() {
 }
 
 // output: 0,1,2,3,4,6,7,8,9
+
+
+//combination
+#include <iostream>
+using namespace std;
+
+int main() {
+    for(int x=1;x<10;x++) {
+      if(x == 2) {
+        continue; 
+      }
+      if(x == 5) {
+        break;
+      }
+      cout << x << endl;
+    }
+}
+
+// output: 1, 3, 4
