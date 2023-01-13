@@ -7,3 +7,12 @@ while True:
         break
     
     print(i)
+
+"""
+
+output:
+1
+3
+4
+
+"""
