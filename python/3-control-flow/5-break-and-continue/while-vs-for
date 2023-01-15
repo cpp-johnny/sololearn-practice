@@ -1,0 +1,3 @@
+Usually we’d use the for loop when the number of iterations is fixed. For example, iterating over a fixed list of items in a shopping list.
+
+The while loop is useful in cases when the number of iterations isn’t known and depends on some calculations and conditions in the code block of the loop. For example, ending the loop when the user enters a specific input in a calculator program.
