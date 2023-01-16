@@ -57,7 +57,9 @@ for i in range(0, 20, 2):
   print(i)
 
 
-
+# create a list of numbers from 0 to 99 and output the 5th item:
+x = list(range(0, 99))
+print(x[4])
 
 
 
